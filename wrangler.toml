@@ -1,0 +1,6 @@
+# wrangler.toml
+name = "smtv" # 您的项目名称，可以自定义
+compatibility_date = "2025-12-24" # 兼容性日期，建议设置为当前日期
+
+[assets]
+directory = "./dist" # 请根据您的实际输出目录修改
